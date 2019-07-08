@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: MoreDoDo
-organization: MoreDoDo 
-organization_url: http://www.moredodo.com
-github_username: moredodo 
-location: Shanghai, China
-email: moredodo@icloud.com
+#author: MoreDoDo
+#organization: MoreDoDo 
+#organization_url: http://www.moredodo.com
+#github_username: moredodo 
+#location: Shanghai, China
+#email: moredodo@icloud.com
 
 # ---------------- #
 #    Navigation    #

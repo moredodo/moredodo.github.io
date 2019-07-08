@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl:https://www.moredodo.com
 url: https://moredodo.github.io
 date_format: "ordinal"
 title: 上海摩铎科技有限公司 

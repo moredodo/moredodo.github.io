@@ -12,4 +12,4 @@ permalink: /about/
 上海市崇明区长兴镇潘园公路1800号3号楼62147室(上海泰和经济发展区)
 
 ## 联系
-* [Email](moredodo@icloud.com)
+* [Email]<moredodo@icloud.com>
